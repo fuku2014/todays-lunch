@@ -1,0 +1,125 @@
+{
+    "foods": [
+        {
+            "id": 1, 
+            "name": "チャーハン", 
+            "rate": 50, 
+            "star": "☆",
+            "imageURL": "https://lunch.jp-east-2.os.cloud.nifty.com/images/chahan.png"
+        }, 
+        {
+            "name": "カレー", 
+            "rate": 25, 
+            "star": "☆",
+            "imageURL": "https://lunch.jp-east-2.os.cloud.nifty.com/images/kare-.png"
+        }, 
+        {
+            "name": "うどん", 
+            "rate": 15, 
+            "star": "☆☆☆",
+            "imageURL": "https://lunch.jp-east-2.os.cloud.nifty.com/images/udon.png"
+        }, 
+        {
+            "name": "そば", 
+            "rate": 7, 
+            "star": "☆☆☆☆",
+            "imageURL": "https://lunch.jp-east-2.os.cloud.nifty.com/images/soba.png"
+        }, 
+        {
+            "name": "ラーメン", 
+            "rate": 3, 
+            "star": "☆☆☆☆☆",
+            "imageURL": "https://lunch.jp-east-2.os.cloud.nifty.com/images/ra-men.png"
+        }, 
+        {
+            "name": "カツ丼", 
+            "rate": 50, 
+            "star": "☆",
+            "imageURL": "https://lunch.jp-east-2.os.cloud.nifty.com/images/katudon.png"
+        }, 
+        {
+            "name": "親子丼", 
+            "rate": 25, 
+            "star": "☆☆",
+            "imageURL": "https://lunch.jp-east-2.os.cloud.nifty.com/images/oyakodon.png"
+        }, 
+        {
+            "name": "オムライス", 
+            "rate": 15, 
+            "star": "☆☆☆",
+            "imageURL": "https://lunch.jp-east-2.os.cloud.nifty.com/images/omuraisu.png"
+        }, 
+        {
+            "name": "トンカツ", 
+            "rate": 7, 
+            "star": "☆☆☆☆",
+            "imageURL": "https://lunch.jp-east-2.os.cloud.nifty.com/images/tonkatu.png"
+        }, 
+        {
+            "name": "納豆", 
+            "rate": 3, 
+            "star": "☆☆☆☆☆",
+            "imageURL": "https://lunch.jp-east-2.os.cloud.nifty.com/images/nattoudon.png"
+        }, 
+        {
+            "name": "ご飯と味噌汁", 
+            "rate": 50, 
+            "star": "☆",
+            "imageURL": "https://lunch.jp-east-2.os.cloud.nifty.com/images/gohan.png"
+        }, 
+        {
+            "name": "やきそば", 
+            "rate": 25, 
+            "star": "☆☆",
+            "imageURL": "https://lunch.jp-east-2.os.cloud.nifty.com/images/yakisoba.png"
+        }, 
+        {
+            "name": "麻婆豆腐", 
+            "rate": 15, 
+            "star": "☆☆☆",
+            "imageURL": "https://lunch.jp-east-2.os.cloud.nifty.com/images/ma-bo-douhu.png"
+        }, 
+        {
+            "name": "ステーキ", 
+            "rate": 7, 
+            "star": "☆☆☆☆",
+            "imageURL": "https://lunch.jp-east-2.os.cloud.nifty.com/images/steak.png"
+        }, 
+        {
+            "name": "ハンバーグ", 
+            "rate": 3, 
+            "star": "☆☆☆☆☆",
+            "imageURL": "https://lunch.jp-east-2.os.cloud.nifty.com/images/hamburg.png"
+        }, 
+        {
+            "name": "生姜焼き", 
+            "rate": 50, 
+            "star": "☆",
+            "imageURL": "https://lunch.jp-east-2.os.cloud.nifty.com/images/syougayaki.png"
+        }, 
+        {
+            "name": "ハンバーガー", 
+            "rate": 25, 
+            "star": "☆☆",
+            "imageURL": "https://lunch.jp-east-2.os.cloud.nifty.com/images/mac.png"
+        }, 
+        {
+            "name": "コロッケ", 
+            "rate": 15, 
+            "star": "☆☆☆",
+            "imageURL": "https://lunch.jp-east-2.os.cloud.nifty.com/images/koroke.png"
+        }, 
+        {
+            "name": "から揚げ", 
+            "rate": 7, 
+            "star": "☆☆☆☆",
+            "imageURL": "https://lunch.jp-east-2.os.cloud.nifty.com/images/karaage.png"
+        },
+        {
+            "name": "バーベキュー", 
+            "rate": 3, 
+            "star": "☆☆☆☆☆",
+            "imageURL": "https://lunch.jp-east-2.os.cloud.nifty.com/images/ba-beque.png"
+        }
+    ]
+}
