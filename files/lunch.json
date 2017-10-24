@@ -120,6 +120,12 @@
             "rate": 3, 
             "star": "☆☆☆☆☆",
             "imageURL": "https://lunch.jp-east-2.os.cloud.nifty.com/images/ba-beque.png"
+        },
+        {
+            "name": "カップラーメン", 
+            "rate": 1, 
+            "star": "☆",
+            "imageURL": "https://lunch2.jp-east-2.os.cloud.nifty.com/images/cup-ramen.jpg"
         }
     ]
 }
