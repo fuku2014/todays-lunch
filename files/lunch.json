@@ -35,7 +35,7 @@
             "name": "カツ丼", 
             "rate": 50, 
             "star": "☆",
-            "imageURL": "https://lunch.jp-east-2.os.cloud.nifty.com/images/katudon.png"
+            "imageURL": "https://lunch2.jp-east-2.storage.api.nifcloud.com/images/katsudon.jpg"
         }, 
         {
             "name": "親子丼", 
@@ -101,7 +101,7 @@
             "name": "ハンバーガー", 
             "rate": 25, 
             "star": "☆☆",
-            "imageURL": "https://lunch.jp-east-2.os.cloud.nifty.com/images/mac.png"
+            "imageURL": "https://lunch2.jp-east-2.storage.api.nifcloud.com/images/hamburger.jpg"
         }, 
         {
             "name": "コロッケ", 
