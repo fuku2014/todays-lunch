@@ -132,6 +132,12 @@
             "rate": 1,
             "star": "☆☆☆☆☆☆☆☆☆☆",
             "imageURL": "https://lunch2.jp-east-2.storage.api.nifcloud.com/images/sake.jpg"
+        },
+        {
+            "name": "鯖の塩焼き",
+            "rate": 7,
+            "star": "☆☆☆☆",
+            "imageURL": "https://lunch2.jp-east-2.storage.api.nifcloud.com/images/sabashio.jpg"
         }
     ]
 }
